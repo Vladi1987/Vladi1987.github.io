@@ -78,8 +78,7 @@
                         <h4>Sasha</h4>
                         <p>Administradora Farmaceutica</p>
                     </div>
-                </div>
-                
+                </div>                
             </div>
         </section>
         <section class="about" id="servicio">
@@ -204,7 +203,6 @@
             </div>
             <p>5 años cuidando la salud de los Colombianos</p>
         </div>
-
     </footer>
     <script src="js/jquery.js"></script>
     <script src="js/main.js"></script>
